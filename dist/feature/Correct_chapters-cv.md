@@ -1,9 +1,13 @@
 ## **Mark Gomersbach**  
 >Date of Birth: October 29, 1983  
 Place of Birth: Reeuwijk, the Netherlands  
-[PDF version here](https://github.com/mgomersbach/cv/raw/gh-pages/dist/master-cv.pdf)
 
-\pagebreak
+[![PDF version here](https://img.shields.io/badge/PDF%20version-here-red.png?logo=adobe%20acrobat%20reader&longCache=true&style=popout"height="48px)](https://github.com/mgomersbach/cv/raw/gh-pages/dist/master-cv.pdf)
+[![Github](https://img.shields.io/badge/Github-Profile-blue.png?logo=github&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/)
+[![Gitlab](https://img.shields.io/badge/Gitlab-Profile-orange.png?logo=gitlab&longCache=true&style=popout"height="48px)](https://gitlab.com/mgomersbach)
+
+[![Sourcerer](https://img.shields.io/badge/Sourcerer-Profile-grey.png?logo=sourcerer&longCache=true&style=popout"height="48px)](https://sourcerer.io/mgomersbach)
+[![LinkedIN](https://img.shields.io/badge/LinkedIN-Profile-blue.png?logo=linkedin&longCache=true&style=popout"height="48px)](https://gitlab.com/mgomersbach)
 
 ### Key proficiencies
 ***
@@ -38,12 +42,11 @@ Place of Birth: Reeuwijk, the Netherlands
 * QEMU/KVM
 * VMWare
 
-\pagebreak
 
 ### **Experience**
 ***
-### **MYLAPS Sports Timing**
-#### **Senior Linux Engineer**
+#### **MYLAPS Sports Timing**
+##### **Senior Linux Engineer**
 >Dates Employed: Aug 2015 – Oct 2018  
 Employment Duration: 3 yrs 3 mos  
 Location: Haarlem Area, Netherlands
@@ -65,8 +68,8 @@ Gained many friends while working (and after) and got motivated enough to run my
 - Create **documentation** for all this for future engineers to use
 ***
 
-### **in2IP B.V.**
-#### **System- en networkengineer**
+#### **in2IP B.V.**
+##### **System- en networkengineer**
 >Dates Employed: Aug 2014 – Jul 2015  
 Employment Duration: 1 yr  
 Location: Leiden
@@ -78,8 +81,8 @@ Very small DevOps team which includes the owner himself, making communication an
 - Having a lot geek, tweak and gadget related fun
 ***
 
-### **True B.V.**
-#### **Support Engineer**
+#### **True B.V.**
+##### **Support Engineer**
 >Dates Employed: Mar 2014 – Jul 2014  
 Employment Duration: 5 mos  
 Location: Amsterdam Area, Netherlands
@@ -94,8 +97,8 @@ Their infra and **support is just superb**, and being allowed to work at that le
 Only left there to go work for a friend.
 ***
 
-### **Gomersbach I.T.**
-#### **Owner**
+#### **Gomersbach I.T.**
+##### **Owner**
 >Dates Employed: Aug 2012 – Jan 2014  
 Employment Duration: 1 yr 6 mos  
 Location: Utrecht Area, Netherlands
@@ -111,8 +114,8 @@ Main clients:
 **Amazing experience** and incredibly humbling
 ***
 
-### **ODMedia**
-#### **Senior Software Engineer**
+#### **ODMedia**
+##### **Senior Software Engineer**
 >Dates Employed: Feb 2007 – Aug 2012  
 Employment Duration: 5 yrs 7 mos  
 Location: Utrecht Area, Netherlands
@@ -164,15 +167,12 @@ Work hard, play hard and **legendary parties!**
 * MAVO, with Math, Science, Chemistry, English, Dutch and Economics 1996 – 2000
 ***
 
-
-### **Additional**
-***
-#### **Languages**
+### **Languages**
 * Native Dutch
 * fluent English
 * some German
 
-#### **Hobbies**
+### **Hobbies**
 * Programming open-source projects
 * Flying
 * Reading sci-fi and fantasy
