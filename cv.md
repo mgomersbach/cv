@@ -1,11 +1,21 @@
+\pagebreak
+
 ## **Mark Gomersbach**  
 >Date of Birth: October 29, 1983  
 Place of Birth: Reeuwijk, the Netherlands  
 
+[![PDF version here](https://img.shields.io/badge/PDF%20version-Here-red.png?logo=adobe%20acrobat%20reader&longCache=true&style=popout"height="48px)](https://github.com/mgomersbach/cv/raw/gh-pages/dist/master-cv.pdf)
+[![LinkedIN](https://img.shields.io/badge/LinkedIN-Profile-blue.png?logo=linkedin&longCache=true&style=popout"height="48px)](https://www.linkedin.com/in/mark-gomersbach/)
+[![Sourcerer](https://img.shields.io/badge/Sourcerer-Profile-green.png?logo=sourcerer&longCache=true&style=popout"height="48px)](https://sourcerer.io/mgomersbach)
+[![Github](https://img.shields.io/badge/Github-Profile-grey.png?logo=github&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/)
+[![Gitlab](https://img.shields.io/badge/Gitlab-Profile-orange.png?logo=gitlab&longCache=true&style=popout"height="48px)](https://gitlab.com/mgomersbach)
 
-### Key proficiencies
+\pagebreak
+
+### **Key proficiencies**
 ***
 **Concepts**
+
 * Configuration management
 * CI/CD
 * Software Development Life Cycles
@@ -14,16 +24,19 @@ Place of Birth: Reeuwijk, the Netherlands
 * and web/api development
 
 **Preferred Languages**
+
 * Systems: Python, Bash
 * Web: PHP, SQL, HTML, CSS, JavaScript
 * (and some obsolete and esoteric)
 
 **Operating systems**
+
 * Anything posix, preferably Gentoo ;)
 * Windows (since WFW 3.11), mainly AD
 * Dos variants  
 
 **Network services**
+
 * NGINX, HAProxy
 * Tomcat, Passenger
 * Load Balancing
@@ -31,16 +44,18 @@ Place of Birth: Reeuwijk, the Netherlands
 * TCP/IP networking  
 
 **Virtualization**
+
 * libvirt
 * Docker
 * QEMU/KVM
 * VMWare
 
+\pagebreak
 
 ### **Experience**
 ***
-### **MYLAPS Sports Timing**
-#### **Senior Linux Engineer**
+#### **MYLAPS Sports Timing**
+##### **Senior Linux Engineer**
 >Dates Employed: Aug 2015 – Oct 2018  
 Employment Duration: 3 yrs 3 mos  
 Location: Haarlem Area, Netherlands
@@ -62,8 +77,10 @@ Gained many friends while working (and after) and got motivated enough to run my
 - Create **documentation** for all this for future engineers to use
 ***
 
-### **in2IP B.V.**
-#### **System- en networkengineer**
+\pagebreak
+
+#### **in2IP B.V.**
+##### **System- en networkengineer**
 >Dates Employed: Aug 2014 – Jul 2015  
 Employment Duration: 1 yr  
 Location: Leiden
@@ -75,8 +92,10 @@ Very small DevOps team which includes the owner himself, making communication an
 - Having a lot geek, tweak and gadget related fun
 ***
 
-### **True B.V.**
-#### **Support Engineer**
+\pagebreak
+
+#### **True B.V.**
+##### **Support Engineer**
 >Dates Employed: Mar 2014 – Jul 2014  
 Employment Duration: 5 mos  
 Location: Amsterdam Area, Netherlands
@@ -91,8 +110,8 @@ Their infra and **support is just superb**, and being allowed to work at that le
 Only left there to go work for a friend.
 ***
 
-### **Gomersbach I.T.**
-#### **Owner**
+#### **Gomersbach I.T.**
+##### **Owner**
 >Dates Employed: Aug 2012 – Jan 2014  
 Employment Duration: 1 yr 6 mos  
 Location: Utrecht Area, Netherlands
@@ -101,6 +120,7 @@ One and half year stint into being independent.
 Merged several code bases into the **chinstrap project**
 
 Main clients:
+
 - **ODMedia**: Rewrite CCMS into new codebase (Drupal 6)
 - **ContentCoders**: Consultancy on video encoding infrastructure
 - **OutTV/others**: Generic sysadmin work at locations of clients
@@ -108,23 +128,28 @@ Main clients:
 **Amazing experience** and incredibly humbling
 ***
 
-### **ODMedia**
-#### **Senior Software Engineer**
+\pagebreak
+
+#### **ODMedia**
+##### **Senior Software Engineer**
 >Dates Employed: Feb 2007 – Aug 2012  
 Employment Duration: 5 yrs 7 mos  
 Location: Utrecht Area, Netherlands
 
 Recruited for video-editing internship, after some months **expanding and automating** ingestion flow I was hired into the company as its first Full-time developer.
+
 - General ingestion of a wild range of ingestion formats
 - Documenting ingestion flow
 - Automating manual steps of ingestion process
 
 Expanding into Medior position after creating the first iteration of the ContentCoders Management System (Drupal 5 at the time)
+
 - Optimize encoding formats
 - **Create Content Management Software for ingestion and delivery flow**
 - Create first iteration of encoding cluster
 
 Introducing another colleague into the company, and automated encoding flow for several worldwide broadcasters and their S.T.B.'s earned my Seniorship.
+
 - **Mentorship** of new colleagues
 - **Gamification** of day-to-day work
 - Extend and expand C.C.M.S to second iteration and added majority of global broadcasters
@@ -133,38 +158,52 @@ I have always enjoyed working at ODMedia/ContentCoders.
 Work hard, play hard and **legendary parties!**
 ***
 
+\pagebreak
 
-### **Older, Internships & Additional experience**
+### **Internships & Extracurricular activities**
 #### **Camera & video editing**
+
 * Visited events and made video reports for the site **VKMag (2005 –2006)**
 * Internship: Maintained a video-editing suite at **PalmPlus Productions (2006)**
+
 #### **Audio engineering & live performance production**
+
 * Audio engineering of television programs at **United Broadcasting Facilities (2006)**
 * Internship: Directed audio, light and media production and mixing at **Pim Jacobs Theater (2005)**
+
 #### **Interviewing & writing**
+
 * Interviewed pop artists, reviewed new albums and wrote articles for **Fok! magazine (2004)**
+
 #### **Hardware & programming**
+
 * Managed network and maintained machines at **Nederlandse Kampeerauto Club (2003 –2004)**
 * Repaired and assembled custom-ordered PCs at **Computer Service Buro (1996 –2000)**
 ***
 
+\pagebreak
 
 ### **Education**
 ***
 #### **Regionaal Opleidings Centrum Hilversum**
+
 * MBO in Sound, Vision & Multimedia 2004 – 2008
+
 #### **Goudse Waarden Gouda**
+
 * MAVO, with Math, Science, Chemistry, English, Dutch and Economics 1996 – 2000
 ***
 
+\pagebreak
 
-### **Additional**
-***
-#### **Languages**
+### **Languages**
+
 * Native Dutch
 * fluent English
 * some German
-#### **Hobbies**
+
+### **Hobbies**
+
 * Programming open-source projects
 * Flying
 * Reading sci-fi and fantasy
