@@ -260,11 +260,17 @@ Work hard, play hard (**legendary parties!**)
 
 ### **Languages**
 
+***
+
 * Native Dutch
 * Fluent English
 * Some German
 
+***
+
 ### **Hobbies**
+
+***
 
 * Programming open-source projects
 * [Flying](https://www.gozc.nl/startplaats)
