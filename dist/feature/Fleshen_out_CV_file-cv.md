@@ -4,6 +4,7 @@
 
 >Date of Birth: October 29, 1983  
 Current location: [Amsterdam](https://www.google.com/maps/@52.3732052,4.904931,13z) , the Netherlands  
+Nationality: Dutch  
 Mail: mark@gomersbach.nl  
 Phone: +31 6 141 888 61
 
