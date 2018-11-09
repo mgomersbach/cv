@@ -77,6 +77,8 @@ Gained many friends while working (and after) and got motivated enough to run my
 - Create **documentation** for all this for future engineers to use
 ***
 
+\pagebreak
+
 #### **in2IP B.V.**
 ##### **System- en networkengineer**
 >Dates Employed: Aug 2014 – Jul 2015  
@@ -89,6 +91,8 @@ Very small DevOps team which includes the owner himself, making communication an
 - Support helpdesk
 - Having a lot geek, tweak and gadget related fun
 ***
+
+\pagebreak
 
 #### **True B.V.**
 ##### **Support Engineer**
@@ -116,12 +120,15 @@ One and half year stint into being independent.
 Merged several code bases into the **chinstrap project**
 
 Main clients:
+
 - **ODMedia**: Rewrite CCMS into new codebase (Drupal 6)
 - **ContentCoders**: Consultancy on video encoding infrastructure
 - **OutTV/others**: Generic sysadmin work at locations of clients
 
 **Amazing experience** and incredibly humbling
 ***
+
+\pagebreak
 
 #### **ODMedia**
 ##### **Senior Software Engineer**
@@ -130,16 +137,19 @@ Employment Duration: 5 yrs 7 mos
 Location: Utrecht Area, Netherlands
 
 Recruited for video-editing internship, after some months **expanding and automating** ingestion flow I was hired into the company as its first Full-time developer.
+
 - General ingestion of a wild range of ingestion formats
 - Documenting ingestion flow
 - Automating manual steps of ingestion process
 
 Expanding into Medior position after creating the first iteration of the ContentCoders Management System (Drupal 5 at the time)
+
 - Optimize encoding formats
 - **Create Content Management Software for ingestion and delivery flow**
 - Create first iteration of encoding cluster
 
 Introducing another colleague into the company, and automated encoding flow for several worldwide broadcasters and their S.T.B.'s earned my Seniorship.
+
 - **Mentorship** of new colleagues
 - **Gamification** of day-to-day work
 - Extend and expand C.C.M.S to second iteration and added majority of global broadcasters
@@ -152,17 +162,21 @@ Work hard, play hard and **legendary parties!**
 
 ### **Internships & Extracurricular activities**
 #### **Camera & video editing**
+
 * Visited events and made video reports for the site **VKMag (2005 –2006)**
 * Internship: Maintained a video-editing suite at **PalmPlus Productions (2006)**
 
 #### **Audio engineering & live performance production**
+
 * Audio engineering of television programs at **United Broadcasting Facilities (2006)**
 * Internship: Directed audio, light and media production and mixing at **Pim Jacobs Theater (2005)**
 
 #### **Interviewing & writing**
+
 * Interviewed pop artists, reviewed new albums and wrote articles for **Fok! magazine (2004)**
 
 #### **Hardware & programming**
+
 * Managed network and maintained machines at **Nederlandse Kampeerauto Club (2003 –2004)**
 * Repaired and assembled custom-ordered PCs at **Computer Service Buro (1996 –2000)**
 ***
@@ -172,20 +186,24 @@ Work hard, play hard and **legendary parties!**
 ### **Education**
 ***
 #### **Regionaal Opleidings Centrum Hilversum**
+
 * MBO in Sound, Vision & Multimedia 2004 – 2008
 
 #### **Goudse Waarden Gouda**
+
 * MAVO, with Math, Science, Chemistry, English, Dutch and Economics 1996 – 2000
 ***
 
 \pagebreak
 
 ### **Languages**
+
 * Native Dutch
 * fluent English
 * some German
 
 ### **Hobbies**
+
 * Programming open-source projects
 * Flying
 * Reading sci-fi and fantasy
