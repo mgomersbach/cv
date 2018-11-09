@@ -11,7 +11,7 @@ Mail: mark@gomersbach.nl
 Phone: +31 6 141 888 61
 
 * [![PDF download here](https://img.shields.io/badge/PDF%20download-Here-red.png?logo=adobe%20acrobat%20reader&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/dist/master-cv.pdf)
-* [![Word download here](https://img.shields.io/badge/PDF%20download-Here-red.png?logo=microsoft%20word&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/dist/master-cv.docx)
+* [![Word download here](https://img.shields.io/badge/Word%20download-Here-red.png?logo=microsoft%20word&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/dist/master-cv.docx)
 * [![LinkedIN](https://img.shields.io/badge/LinkedIN-Profile-blue.png?logo=linkedin&longCache=true&style=popout"height="48px)](https://www.linkedin.com/in/mark-gomersbach/)
 * [![Sourcerer](https://img.shields.io/badge/Sourcerer-Profile-green.png?logo=sourcerer&longCache=true&style=popout"height="48px)](https://sourcerer.io/mgomersbach)
 * [![Github](https://img.shields.io/badge/Github-Profile-grey.png?logo=github&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/)
