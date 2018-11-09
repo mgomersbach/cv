@@ -2,6 +2,8 @@
 
 ## **Mark Gomersbach**
 
+***
+
 >Date of Birth: October 29, 1983  
 Current location: [Amsterdam](https://www.google.com/maps/@52.3732052,4.904931,13z) , the Netherlands  
 Nationality: Dutch  
@@ -17,6 +19,8 @@ Phone: +31 6 141 888 61
 [![Github](https://img.shields.io/badge/Github-Profile-grey.png?logo=github&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/)
 
 [![Gitlab](https://img.shields.io/badge/Gitlab-Profile-orange.png?logo=gitlab&longCache=true&style=popout"height="48px)](https://gitlab.com/mgomersbach)
+
+***
 
 \pagebreak
 
@@ -60,6 +64,8 @@ Phone: +31 6 141 888 61
 * QEMU/KVM
 * VMWare
 
+***
+
 \pagebreak
 
 ### **Experience**
@@ -96,6 +102,8 @@ Gained many friends while working (and after) and got motivated enough to run my
 
 #### **[in2IP B.V.](https://www.in2ip.nl/)**
 
+***
+
 ##### **System- en networkengineer**
 
 >Dates Employed: Aug 2014 – Jul 2015  
@@ -118,6 +126,8 @@ Very small DevOps team which includes the owner himself, making communicating **
 \pagebreak
 
 #### **[True B.V.](https://www.true.nl/)**
+
+***
 
 ##### **Support Engineer**
 
@@ -144,6 +154,8 @@ Only left there to go work for a friend.
 
 #### **[Gomersbach I.T.](https://www.gomersbach.nl/)**
 
+***
+
 ##### **Owner**
 
 >Dates Employed: Aug 2012 – Jan 2014  
@@ -151,7 +163,7 @@ Employment Duration: 1 yr 6 mos
 Location: Utrecht Area, Netherlands
 
 One and half year stint into being independent.
-Merged several code bases into the **chinstrap project**
+Merged several code bases into the **[chinstrap project](https://github.com/mgomersbach/chinstrap-overlay)**
 
 Main clients:
 
@@ -166,6 +178,8 @@ Main clients:
 \pagebreak
 
 #### **[ODMedia](https://www.odmedia.com/)**
+
+***
 
 ##### **Senior Software Engineer**
 
@@ -201,6 +215,8 @@ Work hard, play hard (**legendary parties!**)
 \pagebreak
 
 ### **Internships & Extracurricular activities**
+
+***
 
 #### **Camera & video editing**
 
