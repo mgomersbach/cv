@@ -3,10 +3,11 @@
 ## **Mark Gomersbach**
 
 >Date of Birth: October 29, 1983  
-Place of Birth: Reeuwijk, the Netherlands  
-Current location: Amsterdam, the Netherlands
+Current location: [Amsterdam](https://www.google.com/maps/@52.3732052,4.904931,13z) , the Netherlands  
+Mail: mark@gomersbach.nl  
+Phone: +31 6 141 888 61
 
-[![PDF download here](https://img.shields.io/badge/PDF%20version-Here-red.png?logo=adobe%20acrobat%20reader&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/dist/master-cv.pdf)
+[![PDF download here](https://img.shields.io/badge/PDF%20download-Here-red.png?logo=adobe%20acrobat%20reader&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/dist/master-cv.pdf)
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIN-Profile-blue.png?logo=linkedin&longCache=true&style=popout"height="48px)](https://www.linkedin.com/in/mark-gomersbach/)
 
@@ -64,7 +65,7 @@ Current location: Amsterdam, the Netherlands
 
 ***
 
-#### **MYLAPS Sports Timing**
+#### **[MYLAPS Sports Timing](https://www.mylaps.com/)**
 
 ##### **Senior Linux Engineer**
 
@@ -92,7 +93,7 @@ Gained many friends while working (and after) and got motivated enough to run my
 
 \pagebreak
 
-#### **in2IP B.V.**
+#### **[in2IP B.V.](https://www.in2ip.nl/)**
 
 ##### **System- en networkengineer**
 
@@ -115,7 +116,7 @@ Very small DevOps team which includes the owner himself, making communicating **
 
 \pagebreak
 
-#### **True B.V.**
+#### **[True B.V.](https://www.true.nl/)**
 
 ##### **Support Engineer**
 
@@ -140,7 +141,7 @@ Only left there to go work for a friend.
 
 \pagebreak
 
-#### **Gomersbach I.T.**
+#### **[Gomersbach I.T.](https://www.gomersbach.nl/)**
 
 ##### **Owner**
 
@@ -163,7 +164,7 @@ Main clients:
 
 \pagebreak
 
-#### **ODMedia**
+#### **[ODMedia](https://www.odmedia.com/)**
 
 ##### **Senior Software Engineer**
 
@@ -202,21 +203,21 @@ Work hard, play hard (**legendary parties!**)
 
 #### **Camera & video editing**
 
-* **Visited events** and made video reports for the site **VKMag (2005 –2006)**
-* Internship: Maintained a **video-editing** suite at **PalmPlus Productions (2006)**
+* **Visited events** and made video reports for the site **[VKMag (2005 –2006)](https://www.vkmag.com/)**
+* Internship: Maintained a **video-editing** suite at **[PalmPlus Productions (2006)](https://www.zodiaknederland.nl/)**
 
 #### **Audio engineering & live performance production**
 
-* Audio engineering of television programs at **United Broadcasting Facilities (2006)**
-* Internship: **Directed** audio, light and media production and mixing at **Pim Jacobs Theater (2005)**
+* Audio engineering of television programs at **[United Broadcasting Facilities (2006)](https://united4all.nl/en)**
+* Internship: **Directed** audio, light and media production and mixing at **[Pim Jacobs Theater (2005)](https://www.uitzinnig.nl/uittips/585/theater-t-zand.aspx)**
 
 #### **Interviewing & writing**
 
-* **Interviewed** pop artists, reviewed new albums and wrote articles for **Fok! magazine (2004)**
+* **Interviewed** pop artists, reviewed new albums and wrote articles for **[Fok! magazine (2004)](https://frontpage.fok.nl/)**
 
 #### **Hardware & programming**
 
-* Managed network and maintained machines at **Nederlandse Kampeerauto Club (2003 –2004)**
+* Managed network and maintained machines at **[Nederlandse Kampeerauto Club (2003 –2004)](https://www.nkc.nl/)**
 * Revamped and assembled custom-ordered PCs at **Computer Service Buro (1996 –2000)**
 
 ***
@@ -228,11 +229,11 @@ Work hard, play hard (**legendary parties!**)
 ***
 
 
-#### **Regionaal Opleidings Centrum Hilversum**
+#### **[Regionaal Opleidings Centrum Hilversum](https://www.rocva.nl/MBO-onderwijs/MBO-Colleges/MBO-College-Hilversum)**
 
 * MBO in Sound, Vision & Multimedia 2004 – 2008
 
-#### **Goudse Waarden Gouda**
+#### **[Goudse Waarden Gouda](https://www.degoudsewaarden.nl/)**
 
 * MAVO @ D level, with Math, Science, Chemistry, English, Dutch and Economics 1996 – 2000
 
@@ -249,9 +250,9 @@ Work hard, play hard (**legendary parties!**)
 ### **Hobbies**
 
 * Programming open-source projects
-* Flying
+* [Flying](https://www.gozc.nl/startplaats)
 * Reading sci-fi and fantasy
-* Computer games
-* Friends and pets.
+* [Computer games](https://steamcommunity.com/profiles/76561197963824685)
+* Friends and pets. (Four cats, FOUR!)
 
 ***
