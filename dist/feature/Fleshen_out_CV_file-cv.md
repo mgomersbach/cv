@@ -22,16 +22,12 @@
 > Mail: mark\@gomersbach.nl\
 > Phone: +31 6 141 888 61
 
-[![PDF download
-here](https://img.shields.io/badge/PDF%20download-Here-red.png?logo=adobe%20acrobat%20reader&longCache=true&style=popout%22height=%2248px)](https://mgomersbach.github.io/cv/dist/master-cv.pdf)
-
-[![LinkedIN](https://img.shields.io/badge/LinkedIN-Profile-blue.png?logo=linkedin&longCache=true&style=popout%22height=%2248px)](https://www.linkedin.com/in/mark-gomersbach/)
-
-[![Sourcerer](https://img.shields.io/badge/Sourcerer-Profile-green.png?logo=sourcerer&longCache=true&style=popout%22height=%2248px)](https://sourcerer.io/mgomersbach)
-
-[![Github](https://img.shields.io/badge/Github-Profile-grey.png?logo=github&longCache=true&style=popout%22height=%2248px)](https://mgomersbach.github.io/cv/)
-
-[![Gitlab](https://img.shields.io/badge/Gitlab-Profile-orange.png?logo=gitlab&longCache=true&style=popout%22height=%2248px)](https://gitlab.com/mgomersbach)
+-   [![PDF download
+    here](https://img.shields.io/badge/PDF%20download-Here-red.png?logo=adobe%20acrobat%20reader&longCache=true&style=popout%22height=%2248px)](https://mgomersbach.github.io/cv/dist/master-cv.pdf)
+-   [![LinkedIN](https://img.shields.io/badge/LinkedIN-Profile-blue.png?logo=linkedin&longCache=true&style=popout%22height=%2248px)](https://www.linkedin.com/in/mark-gomersbach/)
+-   [![Sourcerer](https://img.shields.io/badge/Sourcerer-Profile-green.png?logo=sourcerer&longCache=true&style=popout%22height=%2248px)](https://sourcerer.io/mgomersbach)
+-   [![Github](https://img.shields.io/badge/Github-Profile-grey.png?logo=github&longCache=true&style=popout%22height=%2248px)](https://mgomersbach.github.io/cv/)
+-   [![Gitlab](https://img.shields.io/badge/Gitlab-Profile-orange.png?logo=gitlab&longCache=true&style=popout%22height=%2248px)](https://gitlab.com/mgomersbach)
 
 ------------------------------------------------------------------------
 
