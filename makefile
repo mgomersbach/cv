@@ -1,4 +1,7 @@
-all: pdf docx html
+all: md pdf docx html
+
+md:
+	@pandoc --standalone --self-contained --toc -f markdown+smart cv.md --output cv-mdout.md
 
 pdf:
 	@pandoc --standalone --self-contained --toc -f markdown+smart cv.md --output cv.pdf
