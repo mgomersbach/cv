@@ -1,4 +1,4 @@
 all: pdf
 
 pdf:
-	@pandoc --pdf-engine=xelatex --toc -f gfm cv.md --output cv.pdf
+	@pandoc --standalone --self-contained --toc -f markdown+smart cv.md --output cv.pdf

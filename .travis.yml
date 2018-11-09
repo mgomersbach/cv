@@ -1,29 +1,35 @@
 language: r
+pandoc_version: 2.4
 sudo: required
 dist: trusty
 addons:
   apt:
     update: true
+    packages:
+    - librsvg2-bin
+apt_packages:
+  - librsvg2-bin
+  - python-pygments
 cache:
+- pip
 - packages
 - directories:
   - /home/travis/texlive
-install:
+before_install:
+- pip install --user --upgrade pandocfilters
 - tlmgr install luatex
 - tlmgr install l3build
 - tlmgr install cm etex knuth-lib latex-bin tex tex-ini-files unicode-data xetex
-- tlmgr install --no-depends babel ptex uptex ptex-base uptex-base ptex-fonts uptex-fonts
-  platex uplatex
+- tlmgr install --no-depends babel ptex uptex ptex-base uptex-base ptex-fonts uptex-fonts platex uplatex
 - tlmgr install metafont mfware
 - tlmgr install graphics graphics-cfg graphics-def oberdiek
 - tlmgr install --no-depends fontspec
 - tlmgr install ifluatex lm lualibs luaotfload
 - tlmgr install --no-depends chemformula ctex mhchem siunitx unicode-math
 - tlmgr install --no-depends cjk
-- tlmgr install adobemapping amsfonts amsmath chemgreek cjkpunct ctablestack ec environ
-  etoolbox fandol filehook ifxetex lm-math lualatex-math luatexbase luatexja ms pgf
-  tools trimspaces ucharcat ulem units xcolor xecjk xkeyval xunicode zhmetrics zhnumber
+- tlmgr install adobemapping amsfonts amsmath chemgreek cjkpunct ctablestack ec environ etoolbox fandol filehook ifxetex lm-math lualatex-math luatexbase luatexja ms pgf tools trimspaces ucharcat ulem units xcolor xecjk xkeyval xunicode zhmetrics zhnumber collection-fontsrecommended collection-langeuropean
 - tlmgr update --self --all --no-auto-install
+install:
 - chmod u+x ./travis/build.sh
 - chmod u+x ./travis/publish.sh
 script: "./travis/build.sh"
