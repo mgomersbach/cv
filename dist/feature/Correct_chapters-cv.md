@@ -1,3 +1,5 @@
+\pagebreak
+
 ## **Mark Gomersbach**  
 >Date of Birth: October 29, 1983  
 Place of Birth: Reeuwijk, the Netherlands  
@@ -13,12 +15,12 @@ Place of Birth: Reeuwijk, the Netherlands
 ### **Key proficiencies**
 ***
 **Concepts**
-* Configuration management
-* CI/CD
-* Software Development Life Cycles
-* High-performance/Distributed computing
-* System interoperability
-* and web/api development
+  * Configuration management
+  * CI/CD
+  * Software Development Life Cycles
+  * High-performance/Distributed computing
+  * System interoperability
+  * and web/api development
 
 **Preferred Languages**
 * Systems: Python, Bash
@@ -43,6 +45,7 @@ Place of Birth: Reeuwijk, the Netherlands
 * QEMU/KVM
 * VMWare
 
+\pagebreak
 
 ### **Experience**
 ***
@@ -140,6 +143,7 @@ I have always enjoyed working at ODMedia/ContentCoders.
 Work hard, play hard and **legendary parties!**
 ***
 
+\pagebreak
 
 ### **Internships & Extracurricular activities**
 #### **Camera & video editing**
@@ -158,6 +162,7 @@ Work hard, play hard and **legendary parties!**
 * Repaired and assembled custom-ordered PCs at **Computer Service Buro (1996 –2000)**
 ***
 
+\pagebreak
 
 ### **Education**
 ***
@@ -167,6 +172,8 @@ Work hard, play hard and **legendary parties!**
 #### **Goudse Waarden Gouda**
 * MAVO, with Math, Science, Chemistry, English, Dutch and Economics 1996 – 2000
 ***
+
+\pagebreak
 
 ### **Languages**
 * Native Dutch
