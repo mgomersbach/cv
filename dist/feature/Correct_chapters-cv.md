@@ -8,8 +8,9 @@ Place of Birth: Reeuwijk, the Netherlands
 [![Github](https://img.shields.io/badge/Github-Profile-blue.png?logo=github&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/)
 [![Gitlab](https://img.shields.io/badge/Gitlab-Profile-orange.png?logo=gitlab&longCache=true&style=popout"height="48px)](https://gitlab.com/mgomersbach)
 
+\newpage
 
-### Key proficiencies
+### **Key proficiencies**
 ***
 **Concepts**
 * Configuration management
