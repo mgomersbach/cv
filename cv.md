@@ -72,9 +72,9 @@ Current location: Amsterdam, the Netherlands
 Employment Duration: 3 yrs 3 mos  
 Location: Haarlem Area, Netherlands
 
-THE standard of sport timing equipment and data. From it's humble beginning in 1982 into the absolute dominant player on the market, providing a wide range of performance information for almost any sport with a time element today.
+**THE standard** of sport timing equipment and data. From it's humble beginning in 1982 into the absolute **dominant player** on the market, providing a wide range of performance **information** for almost any sport with a time element today.
 
-Helping this company modernize and maintain their office and datacenter infrastructure is a incredible journey where I enjoy many new insights into the sports industry, and hard/software design for it.
+Helping this company modernize and maintain their office and datacenter infrastructure was a incredible journey where I enjoyed many new insights into the **sports** industry, and hard/software design for it.
 
 Gained many friends while working (and after) and got motivated enough to run my first half-marathon
 
@@ -192,7 +192,7 @@ Introducing another colleague into the company, and automated encoding flow for 
 - Extend and expand C.C.M.S to second iteration and added majority of global broadcasters
 
 I have always enjoyed working at ODMedia/ContentCoders.
-Work hard, play hard and **legendary parties!**
+Work hard, play hard (**legendary parties!**)
 
 ***
 
