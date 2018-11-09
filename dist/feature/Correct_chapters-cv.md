@@ -15,24 +15,28 @@ Place of Birth: Reeuwijk, the Netherlands
 ### **Key proficiencies**
 ***
 **Concepts**
-  * Configuration management
-  * CI/CD
-  * Software Development Life Cycles
-  * High-performance/Distributed computing
-  * System interoperability
-  * and web/api development
+
+* Configuration management
+* CI/CD
+* Software Development Life Cycles
+* High-performance/Distributed computing
+* System interoperability
+* and web/api development
 
 **Preferred Languages**
+
 * Systems: Python, Bash
 * Web: PHP, SQL, HTML, CSS, JavaScript
 * (and some obsolete and esoteric)
 
 **Operating systems**
+
 * Anything posix, preferably Gentoo ;)
 * Windows (since WFW 3.11), mainly AD
 * Dos variants  
 
 **Network services**
+
 * NGINX, HAProxy
 * Tomcat, Passenger
 * Load Balancing
@@ -40,6 +44,7 @@ Place of Birth: Reeuwijk, the Netherlands
 * TCP/IP networking  
 
 **Virtualization**
+
 * libvirt
 * Docker
 * QEMU/KVM
