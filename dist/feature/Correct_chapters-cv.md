@@ -4,11 +4,11 @@ Place of Birth: Reeuwijk, the Netherlands
 
 [![PDF version here](https://img.shields.io/badge/PDF%20version-Here-red.png?logo=adobe%20acrobat%20reader&longCache=true&style=popout"height="48px)](https://github.com/mgomersbach/cv/raw/gh-pages/dist/master-cv.pdf)
 [![LinkedIN](https://img.shields.io/badge/LinkedIN-Profile-blue.png?logo=linkedin&longCache=true&style=popout"height="48px)](https://www.linkedin.com/in/mark-gomersbach/)
-[![Sourcerer](https://img.shields.io/badge/Sourcerer-Profile-grey.png?logo=sourcerer&longCache=true&style=popout"height="48px)](https://sourcerer.io/mgomersbach)
-[![Github](https://img.shields.io/badge/Github-Profile-blue.png?logo=github&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/)
+[![Sourcerer](https://img.shields.io/badge/Sourcerer-Profile-green.png?logo=sourcerer&longCache=true&style=popout"height="48px)](https://sourcerer.io/mgomersbach)
+[![Github](https://img.shields.io/badge/Github-Profile-grey.png?logo=github&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/)
 [![Gitlab](https://img.shields.io/badge/Gitlab-Profile-orange.png?logo=gitlab&longCache=true&style=popout"height="48px)](https://gitlab.com/mgomersbach)
 
-<div style="page-break-before: always;"></div>
+\pagebreak
 
 ### **Key proficiencies**
 ***
