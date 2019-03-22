@@ -69,6 +69,29 @@ Phone: +31 6 141 888 61
 
 ***
 
+#### **[Klarrio](https://www.klarrio.com/)**
+
+##### **Site Reliability Engineer**
+
+>Dates Employed: Dec 2018 – Present  
+Employment Duration: currently employed here  
+Location: Rotterdam, the Netherlands
+
+Klarrio is a young, rapidly growing Cloud Native Services Integrator specializing in Internet of Things platforms, Big Data, Analytics, new data governance and go to market deployments. They position themselves as the ***Lingua Franca Advocates of IoT & Analytics***, a common language to enable communication in between all business and technical stakeholders.
+
+By leveraging their skills and insights they accelerate, facilitate, and assist their customers in making sense of all the marketing buzzwords—such as scalability, elasticity, cloud native, and the many Apache Open Source projects—in order to bridge the gaps between deployed and future platform architectures.
+
+- Learned a lot about ***SRE***
+- Udemy: Learn DevOps: Infrastructure Automation With ***Terraform*** 
+- Udemy: ***AWS*** Certified Cloud Practitioner 2019 
+- Udemy: Mastering ***Ansible***
+
+***
+
+\pagebreak
+
+***
+
 #### **[MYLAPS Sports Timing](https://www.mylaps.com/)**
 
 ##### **Senior Linux Engineer**
