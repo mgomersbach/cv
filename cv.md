@@ -69,12 +69,32 @@ Phone: +31 6 141 888 61
 
 ***
 
+#### **[Adyen](https://www.adyen.com)**
+
+##### **Linux Engineer**
+
+>Dates Employed: 2019 – current
+Employment Duration: current position
+Location: Amsterdam, the Netherlands
+
+Adyen was founded in 2006 by a group of entrepreneurs, including Pieter van der Does and Arnout Schuijff. The existing payments technology consisted of a patchwork of systems built on outdated infrastructure. With the aim of helping businesses grow, the co-founders set out to build a platform capable of meeting the rapidly evolving needs of today's fast-growing global businesses.
+
+Adyen's founding team called the business Adyen – Surinamese for "Start over again" – and focused on building a modern infrastructure directly connected to card networks and local payment methods across the world, allowing for unified commerce and providing shopper data insights to merchants. The Adyen platform enables merchants to accept payments in a single system, enabling revenue growth online, on mobile devices and at the point of sale.
+
+- Updated internal chat application (Mattermost) cluster
+
+***
+
+\pagebreak
+
+***
+
 #### **[Klarrio](https://www.klarrio.com/)**
 
 ##### **Site Reliability Engineer**
 
->Dates Employed: Dec 2018 – Present  
-Employment Duration: currently employed here  
+>Dates Employed: Dec 2018 – Jun 2019
+Employment Duration: 6 months
 Location: Rotterdam, the Netherlands
 
 Klarrio is a young, rapidly growing Cloud Native Services Integrator specializing in Internet of Things platforms, Big Data, Analytics, new data governance and go to market deployments. They position themselves as the ***Lingua Franca Advocates of IoT & Analytics***, a common language to enable communication in between all business and technical stakeholders.
