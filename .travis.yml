@@ -19,7 +19,7 @@ before_install:
 - tlmgr install luatex
 - tlmgr install l3build
 - tlmgr install cm etex knuth-lib latex-bin tex tex-ini-files unicode-data xetex
-- tlmgr install --no-depends babel ptex uptex ptex-base uptex-base ptex-fonts uptex-fonts platex uplatex
+- tlmgr install --no-depends babel ptex uptex ptex-base uptex-base ptex-fonts uptex-fonts uplatex
 - tlmgr install metafont mfware
 - tlmgr install graphics graphics-cfg graphics-def oberdiek
 - tlmgr install --no-depends fontspec
