@@ -23,15 +23,13 @@ jobs:
       run: |
         sudo apt-get update && \
         sudo apt-get install -y \
-          git \
           make \
           texlive \
           texlive-latex-extra \
           texlive-fonts-recommended \
           texlive-xetex \
           pandoc \
-          pandoc-plantuml-filter \
-          && apt-get clean
+          pandoc-plantuml-filter
 
     - name: Build CV Files
       run: make all
