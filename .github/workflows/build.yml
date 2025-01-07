@@ -21,8 +21,8 @@ jobs:
 
     - name: Install Dependencies
       run: |
-        sudo apt-get update
-        sudo apt-get apt-get update && apt-get install -y \
+        sudo apt-get update && \
+        sudo apt-get install -y \
           git \
           make \
           texlive \
