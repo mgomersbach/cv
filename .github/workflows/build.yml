@@ -79,7 +79,7 @@ jobs:
           --gc \
           --minify \
           --baseURL "${{ steps.pages.outputs.base_url }}/"
-        cp ./dist/* ./ghpages/public/.
+        cp -r ./dist ./ghpages/public/.
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
