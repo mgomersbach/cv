@@ -60,8 +60,8 @@ jobs:
       run: |
         [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
         npm install postcss -D
-        npm install -g postcss-cli
-        npm install -g autoprefixer 
+        npm install postcss-cli
+        npm install autoprefixer 
         npm install tailwindcss@latest
         npm install @fullhuman/postcss-purgecss
         npm install @tailwindcss/forms
