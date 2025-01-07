@@ -63,6 +63,9 @@ jobs:
         npm install -g postcss-cli
         npm install -g autoprefixer 
         npm install tailwindcss@latest
+        npm install @fullhuman/postcss-purgecss
+        npm install @tailwindcss/forms
+        npm install @tailwindcss/typography
 
     - name: Build with Hugo
       env:
