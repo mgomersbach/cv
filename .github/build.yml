@@ -1,0 +1,71 @@
+name: Build and Deploy CV
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get apt-get update && apt-get install -y \
+          git \
+          make \
+          texlive \
+          texlive-latex-extra \
+          texlive-fonts-recommended \
+          texlive-xetex \
+          pandoc \
+          pandoc-plantuml-filter \
+          && apt-get clean
+
+    - name: Build CV Files
+      run: make all
+
+    - name: Upload Build Artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: cv-results
+        path: |
+          cv.pdf
+          cv-mdout.md
+          cv.docx
+          cv.html
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # Ensures the gh-pages branch can be updated
+
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        branch: gh-pages
+        folder: .
+        clean: true
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit_message: "Automated deployment of CV files"
+        target_folder: dist/${{ github.ref_name }}
+        files: |
+          cv.pdf
+          cv-mdout.md
+          cv.docx
+          cv.html
