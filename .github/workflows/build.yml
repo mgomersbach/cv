@@ -39,10 +39,10 @@ jobs:
       with:
         name: cv-results
         path: |
-          cv.pdf
-          cv-mdout.md
-          cv.docx
-          cv.html
+          dist/cv-np.pdf
+          dist/cv-mdout.md
+          dist/cv-np.docx
+          dist/cv.html
 
   deploy:
     runs-on: ubuntu-latest
@@ -63,7 +63,7 @@ jobs:
         commit_message: "Automated deployment of CV files"
         target_folder: dist/${{ github.ref_name }}
         files: |
-          cv.pdf
-          cv-mdout.md
-          cv.docx
-          cv.html
+          dist/cv.pdf
+          dist/cv-mdout.md
+          dist/cv.docx
+          dist/cv.html
