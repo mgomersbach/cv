@@ -7,11 +7,11 @@ Current location: [Amsterdam](https://www.google.com/maps/@52.3732052,4.904931,1
 Nationality: Dutch  
 
 
-* [![PDF download here](https://img.shields.io/badge/PDF%20download-Here-red.png?logo=adobe%20acrobat%20reader&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/dist/cv-np.pdf)
-* [![Word download here](https://img.shields.io/badge/Word%20download-Here-red.png?logo=microsoft%20word&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/dist/cv-np.docx)
-* [![LinkedIN](https://img.shields.io/badge/LinkedIN-Profile-blue.png?logo=linkedin&longCache=true&style=popout"height="48px)](https://www.linkedin.com/in/mark-gomersbach/)
-* [![Github](https://img.shields.io/badge/Github-Profile-grey.png?logo=github&longCache=true&style=popout"height="48px)](https://github.com/mgomersbach/)
-* [![Gitlab](https://img.shields.io/badge/Gitlab-Profile-orange.png?logo=gitlab&longCache=true&style=popout"height="48px)](https://gitlab.com/mgomersbach)
+[![PDF download here](https://img.shields.io/badge/PDF%20download-Here-red.png?logo=adobe%20acrobat%20reader&longCache=true&style=popout"height="24px)](https://mgomersbach.github.io/cv/dist/cv-np.pdf)
+[![Word download here](https://img.shields.io/badge/Word%20download-Here-red.png?logo=microsoft%20word&longCache=true&style=popout"height="24px)](https://mgomersbach.github.io/cv/dist/cv-np.docx)
+[![LinkedIN](https://img.shields.io/badge/LinkedIN-Profile-blue.png?logo=linkedin&longCache=true&style=popout"height="24px)](https://www.linkedin.com/in/mark-gomersbach/)
+[![Github](https://img.shields.io/badge/Github-Profile-grey.png?logo=github&longCache=true&style=popout"height="24px)](https://github.com/mgomersbach/)
+[![Gitlab](https://img.shields.io/badge/Gitlab-Profile-orange.png?logo=gitlab&longCache=true&style=popout"height="24px)](https://gitlab.com/mgomersbach)
 
 ***
 

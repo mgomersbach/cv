@@ -165,11 +165,6 @@ disableKinds = ["taxonomy"]
         url = "https://github.com/mgomersbach/chinstrap-overlay"
         description = "Merged several codebases into Chinstrap Project."
 
-        [[params.projects.list]]
-        title = "ContentCoders Management System"
-        url = "#"
-        description = "Developed encoding flow automation for global broadcasters."
-
     # About Me section
     [params.aboutme]
         description = "Experienced engineer with a passion for technology, learning, and collaboration."
