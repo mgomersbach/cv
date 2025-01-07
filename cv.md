@@ -314,6 +314,6 @@ Work hard, play hard (**legendary parties!**)
 * [Flying](https://www.gozc.nl/startplaats)
 * Reading sci-fi and fantasy
 * [Computer games](https://steamcommunity.com/profiles/76561197963824685)
-* Spending time with my lovely wife and family
+* Spending time with my lovely wife, family and 3 cats!
 
 ***

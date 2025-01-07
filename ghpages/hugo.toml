@@ -1,0 +1,175 @@
+languageCode = 'en-us'
+title = 'CV'
+
+disableKinds = ["taxonomy"]
+
+[build]
+    writeStats = true
+
+[params]
+    author = "Mark Gomersbach"
+    description = "Senior Linux Engineer"
+    copyright = "Copyright Mark Gomersbach"
+    theme = "dark" # `dark` or `light`
+
+    # Profile section
+    [params.profile]
+        name = "Mark Gomersbach"
+        photo = "images/hoofd.jpg"
+
+    # Section for links to social websites
+    [params.social]
+        title = "Links"
+
+        [[params.social.list]]
+        icon = "fab fa-linkedin-in"
+        url = "https://www.linkedin.com/in/mark-gomersbach/"
+        title = "LinkedIn"
+
+        [[params.social.list]]
+        icon = "fab fa-github"
+        url = "https://github.com/mgomersbach"
+        title = "GitHub"
+
+        [[params.social.list]]
+        icon = "fab fa-gitlab"
+        url = "https://gitlab.com/mgomersbach"
+        title = "GitLab"
+
+    # Key proficiencies section
+    [params.skills]
+        title = "Key Proficiencies"
+
+        [[params.skills.list]]
+        skill = "Configuration management, CI/CD, Software Development Life Cycles"
+        skillrating = 75
+
+        [[params.skills.list]]
+        skill = "High-performance/Distributed computing, System interoperability"
+        skillrating = 85
+
+        [[params.skills.list]]
+        skill = "Python, Bash"
+        skillrating = 85
+
+        [[params.skills.list]]
+        skill = "Golang"
+        skillrating = 25
+
+        [[params.skills.list]]
+        skill = "Web: PHP, SQL, HTML, CSS, JavaScript"
+        skillrating = 50
+
+        [[params.skills.list]]
+        skill = "Posix systems"
+        skillrating = 90
+
+        [[params.skills.list]]
+        skill = "Networking"
+        skillrating = 70
+
+        [[params.skills.list]]
+        skill = "Virtualization/Containerization"
+        skillrating = 70
+
+    # Education section
+    [params.education]
+        title = "Education"
+
+        [[params.education.list]]
+        degree = "MBO in Sound, Vision & Multimedia"
+        college = "Regionaal Opleidings Centrum Hilversum"
+        dates = "2004 - 2008"
+
+        [[params.education.list]]
+        degree = "MAVO @ D level"
+        college = "Goudse Waarden Gouda"
+        dates = "1996 - 2000"
+
+    # Experiences section
+    [params.experiences]
+        title = "Experiences"
+
+        [[params.jobs.list]]
+        position = "Senior Linux Engineer"
+        dates = "Sep 2019 - May 2024"
+        company = "Adyen"
+        location = "Amsterdam, the Netherlands"
+        details = "Transition and co-engineer monitoring systems, Convert and transition virtualization environments, Assist developers in containerizing."
+
+        [[params.jobs.list]]
+        position = "Site Reliability Engineer"
+        dates = "Dec 2018 - Aug 2019"
+        company = "Klarrio"
+        location = "Rotterdam, the Netherlands"
+        details = "Completed Udemy certifications: AWS Cloud Practitioner, Mastering Ansible."
+
+        [[params.jobs.list]]
+        position = "Senior Linux Engineer"
+        dates = "Aug 2015 - Oct 2018"
+        company = "MYLAPS Sports Timing"
+        location = "Haarlem, Netherlands"
+        details = "Introduced SaltStack, Icinga2, Atlassian Stack, Moved production datacenter with minimal downtime."
+
+        [[params.jobs.list]]
+        position = "Support Engineer"
+        dates = "Aug 2014 – Jul 2015"
+        company = "in2IP B.V."
+        location = "Leiden, Netherlands"
+        details = "Explore and master **SaltStack** for **continues integration and stable provisioning**"
+
+        [[params.jobs.list]]
+        position = "Support Engineer"
+        dates = "Mar 2014 – Jul 2014"
+        company = "True B.V."
+        location = "Amsterdam, Netherlands"
+        details = "Firstline **support** (first and only) for clients"
+
+        [[params.jobs.list]]
+        position = "Owner"
+        dates = "Aug 2012 – Jan 2014"
+        company = "Gomersbach I.T."
+        location = "Utrecht, Netherlands"
+        details = "One and half year stint into being independent."
+
+        [[params.jobs.list]]
+        position = "Senior Software Engineer"
+        dates = "Feb 2007 – Aug 2012 "
+        company = "ODMedia"
+        location = "Utrecht, Netherlands"
+        details = "One and half year stint into being independent."
+
+
+    # Hobbies section
+    [params.hobbies]
+        title = "Hobbies"
+
+        [[params.hobbies.list]]
+        interest = "Programming open-source projects"
+
+        [[params.hobbies.list]]
+        interest = "Reading sci-fi and fantasy"
+
+        [[params.hobbies.list]]
+        interest = "Flying"
+
+        [[params.hobbies.list]]
+        interest = "Spending time with my lovely wife and family"
+
+    # Projects section
+    [params.projects]
+        title = "Projects"
+
+        [[params.projects.list]]
+        title = "Chinstrap Project"
+        url = "https://github.com/mgomersbach/chinstrap-overlay"
+        description = "Merged several codebases into Chinstrap Project."
+
+        [[params.projects.list]]
+        title = "ContentCoders Management System"
+        url = "#"
+        description = "Developed encoding flow automation for global broadcasters."
+
+    # About Me section
+    [params.aboutme]
+        description = "Experienced engineer with a passion for technology, learning, and collaboration."
