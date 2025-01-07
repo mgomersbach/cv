@@ -52,11 +52,6 @@ jobs:
         && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
     - name: Install Dart Sass
       run: sudo snap install dart-sass
-    - name: Checkout
-      uses: actions/checkout@v4
-      with:
-        submodules: recursive
-        fetch-depth: 0
 
     - name: Setup Pages
       id: pages
@@ -64,6 +59,9 @@ jobs:
     - name: Install Node.js dependencies
       run: |
         [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
+        npm install postcss -D
+        npm install -g postcss-cli
+        npm install -g autoprefixer 
         npm install tailwindcss@latest
 
     - name: Build with Hugo
