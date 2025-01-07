@@ -57,7 +57,9 @@ jobs:
       id: pages
       uses: actions/configure-pages@v5
     - name: Install Node.js dependencies
+      working-directory: ./ghpages
       run: |
+        cd ghpages
         [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
         npm install postcss -D
         npm install postcss-cli
