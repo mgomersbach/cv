@@ -1,25 +1,23 @@
-
-## **Mark Gomersbach**
+# **Mark Gomersbach**
 
 ***
 
 >Date of Birth: October 29, 1983  
 Current location: [Amsterdam](https://www.google.com/maps/@52.3732052,4.904931,13z) , the Netherlands  
 Nationality: Dutch  
-Mail: mark@gomersbach.nl  
-Phone: +31 6 141 888 61
+
 
 * [![PDF download here](https://img.shields.io/badge/PDF%20download-Here-red.png?logo=adobe%20acrobat%20reader&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/dist/master-cv.pdf)
 * [![Word download here](https://img.shields.io/badge/Word%20download-Here-red.png?logo=microsoft%20word&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/dist/master-cv.docx)
 * [![LinkedIN](https://img.shields.io/badge/LinkedIN-Profile-blue.png?logo=linkedin&longCache=true&style=popout"height="48px)](https://www.linkedin.com/in/mark-gomersbach/)
-* [![Sourcerer](https://img.shields.io/badge/Sourcerer-Profile-green.png?logo=sourcerer&longCache=true&style=popout"height="48px)](https://sourcerer.io/mgomersbach)
 * [![Github](https://img.shields.io/badge/Github-Profile-grey.png?logo=github&longCache=true&style=popout"height="48px)](https://mgomersbach.github.io/cv/)
 * [![Gitlab](https://img.shields.io/badge/Gitlab-Profile-orange.png?logo=gitlab&longCache=true&style=popout"height="48px)](https://gitlab.com/mgomersbach)
 
 ***
 
+\pagebreak
 
-### **Key proficiencies**
+## **Key proficiencies**
 
 ***
 
@@ -34,63 +32,88 @@ Phone: +31 6 141 888 61
 
 **Preferred Languages**
 
-* Systems: Python, Bash
+* Systems: Python, Bash, Golang
 * Web: PHP, SQL, HTML, CSS, JavaScript
 * (and some obsolete and esoteric)
 
-**Operating systems**
+**Operating Systems**
 
-* Anything posix, preferably Gentoo ;)
+* Anything POSIX, preferably Gentoo ;)
 * Windows (since WFW 3.11), mainly AD
 * Dos variants  
 
-**Network services**
+**Network Services**
 
 * NGINX, HAProxy
 * Tomcat, Passenger
 * Load Balancing
-* Scaling
-* TCP/IP networking  
+* SDN
+* TCP/IP networking generics
 
-**Virtualization**
+**Virtualization/Containerization**
 
-* libvirt
-* Docker
-* QEMU/KVM
-* VMWare
-
-***
-
-
-### **Experience**
+* libvirt/OpenStack
+* QEMU/KVM/VMWare
+* Docker/Podman/custom
+* Kubernetes/Nomad
 
 ***
 
-#### **[Klarrio](https://www.klarrio.com/)**
+\pagebreak
 
-##### **Site Reliability Engineer**
+## **Experience**
 
->Dates Employed: Dec 2018 – Present  
-Employment Duration: currently employed here  
+***
+
+### **[Adyen](https://www.adyen.com/)**
+
+#### **Senior Linux Engineer**
+
+>Dates Employed: Sep 2019 – May 2024  
+Employment Duration: 5 yrs
+Location: Amsterdam, the Netherlands
+
+Adyen, a Dutch payment company and licensed acquiring bank, enables businesses to accept payments across e-commerce, mobile, and point-of-sale channels.
+
+Adyen offers integrated payments, data, and financial products, serving clients like Meta, Uber, H&M, and Microsoft, as a leading financial technology platform built for ambition.
+
+* Transition and co-engineer monitoring systems
+* Convert and transition virtualization environments
+* Assist developers in containerizing
+* Visit Kubecon and interview a extensive amount of candidates
+
+***
+
+\pagebreak
+
+***
+
+### **[Klarrio](https://www.klarrio.com/)**
+
+#### **Site Reliability Engineer**
+
+>Dates Employed: Dec 2018 – Aug 2019  
+Employment Duration: 7 mo.
 Location: Rotterdam, the Netherlands
 
 Klarrio is a young, rapidly growing Cloud Native Services Integrator specializing in Internet of Things platforms, Big Data, Analytics, new data governance and go to market deployments. They position themselves as the ***Lingua Franca Advocates of IoT & Analytics***, a common language to enable communication in between all business and technical stakeholders.
 
 By leveraging their skills and insights they accelerate, facilitate, and assist their customers in making sense of all the marketing buzzwords—such as scalability, elasticity, cloud native, and the many Apache Open Source projects—in order to bridge the gaps between deployed and future platform architectures.
 
-- Learned a lot about ***SRE***
-- Udemy: Learn DevOps: Infrastructure Automation With ***Terraform*** 
-- Udemy: ***AWS*** Certified Cloud Practitioner 2019 
-- Udemy: Mastering ***Ansible***
+* Gained valuable experience in Site Reliability Engineering (SRE).
+* Completed Udemy course: Learn DevOps: Infrastructure Automation with Terraform.
+* Earned Udemy certification: AWS Certified Cloud Practitioner (2019).
+* Completed Udemy course: Mastering Ansible.
 
 ***
 
+\pagebreak
 
 ***
 
-#### **[MYLAPS Sports Timing](https://www.mylaps.com/)**
+### **[MYLAPS Sports Timing](https://www.mylaps.com/)**
 
-##### **Senior Linux Engineer**
+#### **Senior Linux Engineer**
 
 >Dates Employed: Aug 2015 – Oct 2018  
 Employment Duration: 3 yrs 3 mos  
@@ -102,24 +125,25 @@ Helping this company modernize and maintain their office and datacenter infrastr
 
 Gained many friends while working (and after) and got motivated enough to run my first half-marathon
 
-- Introduced infrastructure as code (**SaltStack**)
-- Introduced new monitoring system (**Icinga2**)
-- Maintained Atlassian Stack (**Stash, Jira, Confluence** etc.)
-- Introduced IP management system (**PHPipam/Netbox**)
-- Maintained integrity of data and **knowledge transfer** through several management replacements
-- Help and **teach junior developers** gain knowledge about systems, networks, and CI tools
-- Integrate Active Directory across many of these systems
-- **Under hardcore time and resource constraints**, moved production datacenter with minimal downtime
-- Create **documentation** for all this for future engineers to use
+* Introduced infrastructure as code (**SaltStack**)
+* Introduced new monitoring system (**Icinga2**)
+* Maintained Atlassian Stack (**Stash, Jira, Confluence** etc.)
+* Introduced IP management system (**PHPipam/Netbox**)
+* Maintained integrity of data and **knowledge transfer** through several management replacements
+* Help and **teach junior developers** gain knowledge about systems, networks, and CI tools
+* Integrate Active Directory across many of these systems
+* **Under hardcore time and resource constraints**, moved production datacenter with minimal downtime
+* Create **documentation** for all this for future engineers to use
 
 ***
 
+\pagebreak
 
-#### **[in2IP B.V.](https://www.in2ip.nl/)**
+### **[in2IP B.V.](https://www.in2ip.nl/)**
 
 ***
 
-##### **System- en networkengineer**
+#### **System- en networkengineer**
 
 >Dates Employed: Aug 2014 – Jul 2015  
 Employment Duration: 1 yr  
@@ -131,19 +155,20 @@ IN2IP offers a **broad portfolio** of application and data hosting solutions, ra
 
 Very small DevOps team which includes the owner himself, making communicating **incredibly pleasant**.
 
-- Explore and master **SaltStack** for **continues integration and stable provisioning**
-- Support helpdesk
-- Having a lot geek, tweak and gadget related fun
-- Converted from pirate to ninja
+* Explore and master **SaltStack** for **continues integration and stable provisioning**
+* Support helpdesk
+* Having a lot geek, tweak and gadget related fun
+* Converted from pirate to ninja
 
 ***
 
+\pagebreak
 
-#### **[True B.V.](https://www.true.nl/)**
+### **[True B.V.](https://www.true.nl/)**
 
 ***
 
-##### **Support Engineer**
+#### **Support Engineer**
 
 >Dates Employed: Mar 2014 – Jul 2014  
 Employment Duration: 5 mos  
@@ -155,21 +180,22 @@ Because True has the knowledge, resources and people to do the digital work and 
 
 Instead of competing on price, these people go for **quality**, which renders them one-of-kind in the market.
 
-- Firstline **support** (first and only) for clients
-- Datacenter **improvements**
-- Became a pirate while playing pool
+* Firstline **support** (first and only) for clients
+* Datacenter **improvements**
+* Became a pirate while playing pool
 
 Their infra and **support is just superb**, and being allowed to work at that level is **stimulating and emboldening** for the perfectionists among us.
 Only left there to go work for a friend.
 
 ***
 
+\pagebreak
 
-#### **[Gomersbach I.T.](https://www.gomersbach.nl/)**
+### **[Gomersbach I.T.](https://www.gomersbach.nl/)**
 
 ***
 
-##### **Owner**
+#### **Owner**
 
 >Dates Employed: Aug 2012 – Jan 2014  
 Employment Duration: 1 yr 6 mos  
@@ -180,20 +206,21 @@ Merged several code bases into the **[chinstrap project](https://github.com/mgom
 
 Main clients:
 
-- **ODMedia**: Rewrite CCMS into new codebase (Drupal 6)
-- **ContentCoders**: Consultancy on video encoding infrastructure
-- **OutTV/others**: Generic sysadmin work at locations of clients
+* **ODMedia**: Rewrite CCMS into new codebase (Drupal 6)
+* **ContentCoders**: Consultancy on video encoding infrastructure
+* **OutTV/others**: Generic sysadmin work at locations of clients
 
 **Amazing experience** and incredibly humbling
 
 ***
 
+\pagebreak
 
-#### **[ODMedia](https://www.odmedia.com/)**
+### **[ODMedia](https://www.odmedia.com/)**
 
 ***
 
-##### **Senior Software Engineer**
+#### **Senior Software Engineer**
 
 >Dates Employed: Feb 2007 – Aug 2012  
 Employment Duration: 5 yrs 7 mos  
@@ -203,71 +230,73 @@ ODMedia provides a **one-stop solution** which makes sure your content is in the
 
 Recruited for video-editing internship, after some months **expanding and automating** ingestion flow I was hired into the company as its first Full-time developer.
 
-- General ingestion of a wild range of ingestion formats
-- Documenting ingestion flow
-- Automating manual steps of ingestion process
+* General ingestion of a wild range of ingestion formats
+* Documenting ingestion flow
+* Automating manual steps of ingestion process
 
 Expanding into Medior position after creating the first iteration of the ContentCoders Management System (Drupal 5 at the time)
 
-- Optimize encoding formats
-- **Create Content Management Software for ingestion and delivery flow**
-- Create first iteration of encoding cluster
+* Optimize encoding formats
+* **Create Content Management Software for ingestion and delivery flow**
+* Create first iteration of encoding cluster
 
 Introducing another colleague into the company, and automated encoding flow for several worldwide broadcasters and their S.T.B.'s earned my Seniorship.
 
-- **Mentorship** of new colleagues
-- **Gamification** of day-to-day work
-- Extend and expand C.C.M.S to second iteration and added majority of global broadcasters
+* **Mentorship** of new colleagues
+* **Gamification** of day-to-day work
+* Extend and expand C.C.M.S to second iteration and added majority of global broadcasters
 
 I have always enjoyed working at ODMedia/ContentCoders.
 Work hard, play hard (**legendary parties!**)
 
 ***
 
+\pagebreak
 
-### **Internships & Extracurricular activities**
+## **Internships & Extracurricular activities**
 
 ***
 
-#### **Camera & video editing**
+### **Camera & video editing**
 
 * **Visited events** and made video reports for the site **[VKMag (2005 –2006)](https://www.vkmag.com/)**
 * Internship: Maintained a **video-editing** suite at **[PalmPlus Productions (2006)](https://www.zodiaknederland.nl/)**
 
-#### **Audio engineering & live performance production**
+### **Audio engineering & live performance production**
 
 * Audio engineering of television programs at **[United Broadcasting Facilities (2006)](https://united4all.nl/en)**
 * Internship: **Directed** audio, light and media production and mixing at **[Pim Jacobs Theater (2005)](https://www.uitzinnig.nl/uittips/585/theater-t-zand.aspx)**
 
-#### **Interviewing & writing**
+### **Interviewing & writing**
 
 * **Interviewed** pop artists, reviewed new albums and wrote articles for **[Fok! magazine (2004)](https://frontpage.fok.nl/)**
 
-#### **Hardware & programming**
+### **Hardware & programming**
 
 * Managed network and maintained machines at **[Nederlandse Kampeerauto Club (2003 –2004)](https://www.nkc.nl/)**
 * Revamped and assembled custom-ordered PCs at **Computer Service Buro (1996 –2000)**
 
 ***
 
+\pagebreak
 
-### **Education**
+## **Education**
 
 ***
 
-
-#### **[Regionaal Opleidings Centrum Hilversum](https://www.rocva.nl/MBO-onderwijs/MBO-Colleges/MBO-College-Hilversum)**
+### **[Regionaal Opleidings Centrum Hilversum](https://www.rocva.nl/MBO-onderwijs/MBO-Colleges/MBO-College-Hilversum)**
 
 * MBO in Sound, Vision & Multimedia 2004 – 2008
 
-#### **[Goudse Waarden Gouda](https://www.degoudsewaarden.nl/)**
+### **[Goudse Waarden Gouda](https://www.degoudsewaarden.nl/)**
 
 * MAVO @ D level, with Math, Science, Chemistry, English, Dutch and Economics 1996 – 2000
 
 ***
 
+\pagebreak
 
-### **Languages**
+## **Languages**
 
 ***
 
@@ -277,7 +306,7 @@ Work hard, play hard (**legendary parties!**)
 
 ***
 
-### **Hobbies**
+## **Hobbies**
 
 ***
 
@@ -285,6 +314,6 @@ Work hard, play hard (**legendary parties!**)
 * [Flying](https://www.gozc.nl/startplaats)
 * Reading sci-fi and fantasy
 * [Computer games](https://steamcommunity.com/profiles/76561197963824685)
-* Friends and pets. (Four cats, FOUR!)
+* Spending time with my lovely wife and family
 
 ***

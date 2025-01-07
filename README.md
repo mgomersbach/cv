@@ -1,17 +1,15 @@
-# Curriculum Vitae
-[![CV](CV.svg)](https://github.com/mgomersbach/cv)
+<a href="https://github.com/mgomersbach/cv">
+    <img src="https://raw.githubusercontent.com/mgomersbach/cv/master/CV.svg?sanitize=true" alt="CV logo" title="CV" align="right" height="100" />
+</a>
+
+Curriculum Vitae
+================
 > "Can you sent me a PDF?"
 
-## Build status
-[![Pandoc Status](https://travis-ci.com/mgomersbach/cv.svg?branch=master)](https://travis-ci.com/mgomersbach/cv) Pandoc
-
 ## What?
-This repository can generate several curricula vitae in different output formats. (Just outputs PDF for now)
+This repository can generate several curricula vitae in different output formats.
 
 ## Why?
-Because some are unable, unwilling or simply incapable of reading a LinkedIN profile or a url.
-
-## Meta
-Mark Gomersbach – markgomersbach@gmail.com
+For those who may have missed the LinkedIn profile or the provided URL, this serves as an additional resource.
 
 Distributed under the GPLv2 license. See ``LICENSE`` for more information.
