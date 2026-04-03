@@ -76,7 +76,7 @@ jobs:
         TZ: Europe/Amsterdam
       working-directory: ghpages
       run: |
-        hugo --gc --minify --writeStats
+        hugo --gc --minify
         rm -f public/dist/.gitkeep
 
     - name: Upload artifact
