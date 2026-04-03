@@ -4,8 +4,8 @@ md:
 	@awk '!/\\pagebreak/' cv.md > dist/cv-mdout.md
 
 pdf:
-	@pandoc --standalone --self-contained --toc -f markdown+smart cv.md --output dist/cv.pdf
-	@pandoc --standalone --self-contained -f markdown+smart dist/cv-mdout.md --output dist/cv-np.pdf
+	@pandoc --standalone --toc -f markdown+smart cv.md --pdf-engine=typst --output dist/cv.pdf
+	@pandoc --standalone -f markdown+smart dist/cv-mdout.md --pdf-engine=typst --output dist/cv-np.pdf
 	
 docx:
 	@pandoc --standalone --self-contained --toc -f markdown+smart cv.md --output dist/cv.docx
