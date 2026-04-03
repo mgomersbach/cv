@@ -134,10 +134,10 @@ disableKinds = ["taxonomy"]
 
         [[params.jobs.list]]
         position = "Senior Software Engineer"
-        dates = "Feb 2007 – Aug 2012 "
+        dates = "Feb 2007 – Aug 2012"
         company = "ODMedia"
         location = "Utrecht, Netherlands"
-        details = "One and half year stint into being independent."
+        details = "Web and software development."
 
 
     # Hobbies section
