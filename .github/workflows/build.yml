@@ -76,7 +76,7 @@ jobs:
         TZ: Europe/Amsterdam
       working-directory: ghpages
       run: |
-        hugo --gc --minify --writeStats -d public -b "${{ steps.pages.outputs.base_url }}/"
+        hugo --gc --minify --writeStats
         rm -f public/dist/.gitkeep
 
     - name: Upload artifact
