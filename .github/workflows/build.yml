@@ -50,7 +50,7 @@ jobs:
       run: |
         wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
         && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-        mkdir -p ./ghpages/public && cp -r ./dist ./ghpages/public/.
+        mkdir -p ./ghpages/static/dist && cp -r ./dist/* ./ghpages/static/dist/
     - name: Install Dart Sass
       run: sudo snap install dart-sass
 
@@ -76,12 +76,8 @@ jobs:
         TZ: Europe/Amsterdam
       working-directory: ghpages
       run: |
-        # Generate hugo_stats.json for PurgeCSS
-        hugo \
-          --gc \
-          --minify \
-          --writeStats \
-          --baseURL "${{ steps.pages.outputs.base_url }}/"
+        hugo --gc --minify --writeStats --destination public --baseURL "${{ steps.pages.outputs.base_url }}/"
+        rm -f public/dist/.gitkeep
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3

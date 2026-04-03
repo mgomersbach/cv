@@ -1,6 +1,11 @@
 <footer class="text-center text-sm p-3 border-t border-gray-500 mt-6">
   <p>{{ .Site.Params.copyright | markdownify }}</p>
-  <p>
+  <div class="mt-2 space-x-2">
+    <a href="{{ "dist/cv.pdf" | relURL }}" class="underline">PDF</a>
+    <a href="{{ "dist/cv.docx" | relURL }}" class="underline">DOCX</a>
+    <a href="{{ "dist/cv.html" | relURL }}" class="underline">HTML</a>
+  </div>
+  <p class="mt-2 text-xs text-gray-400">
     <a href="https://github.com/darshanbaral/sada">sada</a> by
     <a href="https://www.darshanbaral.com">darshan</a>
   </p>
