@@ -65,6 +65,7 @@ jobs:
         npm install postcss-cli
         npm install autoprefixer
         npm install tailwindcss@latest
+        npm install @tailwindcss/postcss
         npm install @fullhuman/postcss-purgecss
         npm install @tailwindcss/forms
         npm install @tailwindcss/typography
