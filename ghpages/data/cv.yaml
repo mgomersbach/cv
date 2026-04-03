@@ -1,0 +1,111 @@
+name: Mark Gomersbach
+title: Senior Linux Engineer
+email: markgomersbach@gmail.com
+location: Amsterdam, the Netherlands
+date_of_birth: 1983-10-29
+nationality: Dutch
+social:
+  linkedin: https://www.linkedin.com/in/mark-gomersbach/
+  github: https://github.com/mgomersbach/
+  gitlab: https://gitlab.com/mgomersbach
+
+skills:
+  - category: Concepts
+    items: [Configuration management, CI/CD, SDLC, High-performance computing, Distributed computing, System interoperability]
+  - category: Languages
+    items: [Python, Bash, Golang, PHP, SQL, HTML, CSS, JavaScript]
+  - category: Systems
+    items: [Linux (Gentoo), Windows, DOS]
+  - category: Network Services
+    items: [NGINX, HAProxy, Tomcat, Passenger, Load Balancing, SDN, TCP/IP]
+  - category: Virtualization
+    items: [KVM, QEMU, Docker, Podman, Kubernetes, Nomad, OpenStack]
+
+experience:
+  - company: Adyen
+    url: https://www.adyen.com/
+    position: Senior Linux Engineer
+    dates: Sep 2019 – May 2024
+    location: Amsterdam, the Netherlands
+    details:
+      - Transition and co-engineer monitoring systems
+      - Convert and transition virtualization environments
+      - Assist developers in containerizing
+      - Talent acquisition and technical interviewing
+
+  - company: Klarrio
+    url: https://www.klarrio.com/
+    position: Site Reliability Engineer
+    dates: Dec 2018 – Aug 2019
+    location: Rotterdam, the Netherlands
+    details:
+      - Cloud Native Services integration for IoT & Big Data
+      - Infrastructure Automation with Terraform and Ansible
+      - AWS Certified Cloud Practitioner (2019)
+
+  - company: MYLAPS Sports Timing
+    url: https://www.mylaps.com/
+    position: Senior Linux Engineer
+    dates: Aug 2015 – Oct 2018
+    location: Haarlem, Netherlands
+    details:
+      - Introduced Infrastructure as Code (SaltStack)
+      - Implemented Icinga2 monitoring
+      - Maintained Atlassian Stack (Jira, Confluence, Bitbucket)
+      - Datacenter migration with minimal downtime
+
+  - company: in2IP B.V.
+    url: https://www.in2ip.nl/
+    position: Support Engineer
+    dates: Aug 2014 – Jul 2015
+    location: Leiden, Netherlands
+    details:
+      - Mastered SaltStack for continuous integration
+      - Support helpdesk for financial and media clients
+
+  - company: True B.V.
+    url: https://www.true.nl/
+    position: Support Engineer
+    dates: Mar 2014 – Jul 2014
+    location: Amsterdam, Netherlands
+    details:
+      - First-line support for high-traffic environments
+      - Datacenter improvements and optimization
+
+  - company: Gomersbach I.T.
+    url: https://www.gomersbach.nl/
+    position: Owner / Consultant
+    dates: Aug 2012 – Jan 2014
+    location: Utrecht, Netherlands
+    details:
+      - Independent consultancy for video encoding and CCMS
+      - Created the Chinstrap Project
+
+  - company: ODMedia
+    url: https://www.odmedia.com/
+    position: Senior Software Engineer
+    dates: Feb 2007 – Aug 2012
+    location: Utrecht, Netherlands
+    details:
+      - Automated video ingestion and delivery lifecycles
+      - Developed Content Management Software (PHP/Drupal)
+      - Mentorship of junior engineering staff
+
+education:
+  - degree: MBO in Sound, Vision & Multimedia
+    institution: Regionaal Opleidings Centrum Hilversum
+    dates: 2004 - 2008
+  - degree: MAVO @ D level
+    institution: Goudse Waarden Gouda
+    dates: 1996 - 2000
+
+languages:
+  - Dutch (Native)
+  - English (Fluent)
+  - German (Basic)
+
+hobbies:
+  - Programming open-source projects
+  - Flying (Gliding)
+  - Reading sci-fi and fantasy
+  - Spending time with family and cats
