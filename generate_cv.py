@@ -14,9 +14,9 @@ def generate_cv_md():
     md += f"Nationality: {cv['nationality']}\n\n"
     
     # Social links
-    md += f"[![LinkedIN](https://img.shields.io/badge/LinkedIN-Profile-blue.png?logo=linkedin&style=popout)]( {cv['social']['linkedin']} )\n"
-    md += f"[![Github](https://img.shields.io/badge/Github-Profile-grey.png?logo=github&style=popout)]( {cv['social']['github']} )\n"
-    md += f"[![Gitlab](https://img.shields.io/badge/Gitlab-Profile-orange.png?logo=gitlab&style=popout)]( {cv['social']['gitlab']} )\n\n"
+    md += f"LinkedIn: {cv['social']['linkedin']}  \n"
+    md += f"Github: {cv['social']['github']}  \n"
+    md += f"Gitlab: {cv['social']['gitlab']}  \n\n"
     
     md += "***\n\n\\pagebreak\n\n## **Experience**\n\n***\n\n"
     
